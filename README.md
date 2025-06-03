@@ -57,7 +57,7 @@ Le projet est structuré comme suit :
 
 ## Auteur
 
-[Votre Nom]
+[Lemine]
 
 ## Licence
 
